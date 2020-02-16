@@ -2,7 +2,7 @@
     $connection = mysqli_connect(
        'localhost',
        'root',
-       'Ad46b36ff',
+       'Password',
        'task-app'
     );
 
